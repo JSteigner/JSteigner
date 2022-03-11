@@ -3,7 +3,7 @@
 <!--
 **JSteigner/JSteigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 Just finished an apprenticeship at Revelry 
+- 🔭 software engineer at fillogic
 - 🌱 I’m currently learning Elixir / Phoenix and reading 'Clean Code' by Robert Martin 
 - 👯 I’m looking to collaborate on any interesting projects! I'm currently using Elixir / Phoenix / Ecto / React / React Native / Node / Express / PostgreSQL
 - 🤔 I’m looking for help with getting a job! also Elixir / general good coding practices
