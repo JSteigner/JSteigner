@@ -9,4 +9,4 @@
 - 💬 Ask me about Elixir / Phoenix / JavaScript
 - 📫 How to reach me: ioctosteigner@gmail.com
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: I have a bachelors in music and love all kinds of music and art!
+- ⚡ Fun fact: I have a bachelors in music/jazz and love all kinds of music and art!
